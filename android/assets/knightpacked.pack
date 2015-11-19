@@ -1,0 +1,47 @@
+
+knightsheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+knightleft1
+  rotate: false
+  xy: 0, 0
+  size: 84, 99
+  orig: 86, 99
+  offset: 1, 0
+  index: -1
+knightleft3
+  rotate: false
+  xy: 86, 0
+  size: 83, 99
+  orig: 86, 99
+  offset: 2, 0
+  index: -1
+knightright1
+  rotate: false
+  xy: 171, 0
+  size: 77, 99
+  orig: 86, 99
+  offset: 4, 0
+  index: -1
+knightleft2
+  rotate: false
+  xy: 250, 0
+  size: 76, 99
+  orig: 86, 99
+  offset: 5, 0
+  index: -1
+knightright3
+  rotate: false
+  xy: 328, 0
+  size: 76, 99
+  orig: 86, 99
+  offset: 4, 0
+  index: -1
+knightright2
+  rotate: false
+  xy: 406, 0
+  size: 70, 99
+  orig: 86, 99
+  offset: 10, 0
+  index: -1
